@@ -1,0 +1,8 @@
+title: Cecilywalker.GitHub.io
+description: Welcome to my new site!
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
